@@ -3,8 +3,8 @@
 <!--Body-->
 <div align="center">
   
-## 🧱 Tech Stack
-### Language
+## 🛠️ Tech Stack
+### 📌 Language
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 </p>
 
-### Library & Framework
+### 📌 Library & Framework
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Zustand-A37A48?style=flat-square&logo=bear&logoColor=white"/>
 </p>
 
-### Database
+### 📌 Database
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
@@ -29,7 +29,7 @@
 
   
   ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m01310g)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m01310g&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=nongdamgom1014)](https://solved.ac/nongdamgom1014)
