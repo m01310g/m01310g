@@ -33,6 +33,6 @@
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m01310g&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   <br/>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=nongdamgom1014)](https://solved.ac/nongdamgom1014)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=m01310g)](https://solved.ac/m01310g)
   
 </div>
